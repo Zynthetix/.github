@@ -16,6 +16,6 @@ Currently in active development. More details coming soon.
 
 <div align="center">
 
-[swe.zynthetix.in](https://swe.zynthetix.in)
+[krew.zynthetix.in](https://krew.zynthetix.in)
 
 </div>
